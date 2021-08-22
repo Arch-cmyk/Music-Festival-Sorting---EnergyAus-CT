@@ -1,0 +1,6 @@
+.label-name > div {
+  margin-left: 15px;
+}
+.label-name > div > div {
+  margin-left: 15px;
+}
